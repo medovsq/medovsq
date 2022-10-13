@@ -1,4 +1,6 @@
-# Hi, I’m [@medovsq](https://github.com/medovsq) ![](https://visitor-badge.glitch.me/badge?page_id=yeezy-na-izi.yeezy-na-izi)
+![](https://komarev.com/ghpvc/?username=medovsq)
+
+# Hi, I’m [@medovsq](https://github.com/medovsq)
 
 [![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](https://t.me/medovsq)
 [![Vkontakte](https://img.shields.io/badge/VK-262424?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/zelenkin6)
