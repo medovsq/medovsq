@@ -6,14 +6,27 @@
 [![Vkontakte](https://img.shields.io/badge/VK-262424?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/zelenkin6)
 
 
-## Strange information
+## information
   
-- 👀 I’m interested in Python
-- 💞️ I want to collaborate with good people.
-- 🤔 I’m learning Front 😏
+I am a student at ITMO University in the field of information security. I love playing CTF and programming
 
-## Statistics
+programming languageы:
+Python
+java script
+C/C++ (teapot level)
 
-![](https://github-readme-stats.vercel.app/api?username=medovsq&theme=react&show_icons=true&count_private=true&hide_border=true&disable_animations=true)
+non-programming languages:
+css 
+html
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=medovsq&theme=react&hide_border=true&disable_animations=true&count_private=true)
+
+## hobbies and interests
+orienteering
+CTF
+I like LSP
+
+## Quote
+Гоpод-сказка, гоpод-мечта
+Попадая в его сети, пpопадаешь навсегда
+Глотая его воздух пpостyд и сквозняков
+С запахом бензина и дорогих духов
