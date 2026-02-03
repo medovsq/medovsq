@@ -22,8 +22,7 @@ html
 
 ## hobbies and interests
 orienteering  
-CTF  
-I like LSP  
+CTF   
 
 ## Quote
 Гоpод-сказка, гоpод-мечта  
