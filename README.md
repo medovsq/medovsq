@@ -10,23 +10,23 @@
   
 I am a student at ITMO University in the field of information security. I love playing CTF and programming
 
-programming languageы:
-Python
-java script
-C/C++ (teapot level)
+programming languages:  
+Python  
+java script  
+C/C++ (teapot level)  
 
-non-programming languages:
-css 
-html
+non-programming languages:  
+css  
+html  
 
 
 ## hobbies and interests
-orienteering
-CTF
-I like LSP
+orienteering  
+CTF  
+I like LSP  
 
 ## Quote
-Гоpод-сказка, гоpод-мечта
-Попадая в его сети, пpопадаешь навсегда
-Глотая его воздух пpостyд и сквозняков
-С запахом бензина и дорогих духов
+Гоpод-сказка, гоpод-мечта  
+Попадая в его сети, пpопадаешь навсегда  
+Глотая его воздух пpостyд и сквозняков  
+С запахом бензина и дорогих духов  
