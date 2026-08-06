@@ -13,7 +13,7 @@ I am a student at ITMO University in the field of information security. I love p
 programming languages:  
 Python  
 java script  
-C/C++ (teapot level)  
+C/C++
 
 non-programming languages:  
 css  
